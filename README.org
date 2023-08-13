@@ -5,5 +5,5 @@ Common Lisp implementation of GFlags, Google's command line flag parsing library
 |---------+----------------------------------------------|
 | source  | git:https://github.com/brown/lisp-gflags.git |
 | commit  | 029633d                                      |
-| systems | (com.google.flag)                            |
+| systems | com.google.flag                              |
 |---------+----------------------------------------------|
